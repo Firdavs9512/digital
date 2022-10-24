@@ -1,0 +1,29 @@
+@font-face {
+    font-family: monserat;
+    src: url('/src/font/Montserrat-Medium.otf');
+}
+@font-face {
+    font-family: monserat-bold;
+    src: url('/src/font/Montserrat-Black.otf');
+}
+@font-face {
+    font-family: monserat-light;
+    src: url('/src/font/Montserrat-Light.otf');
+}
+@font-face {
+    font-family: monserat-exta;
+    src: url('/src/font/Montserrat-Bold.otf');
+}
+
+.monserat{
+    font-family: monserat;
+}
+.monserat-bold{
+    font-family: monserat-exta;
+}
+.monserat-h{
+    font-family: monserat-bold;
+}
+.monserat-light{
+    font-family: monserat-light;
+}
