@@ -1,18 +1,18 @@
 @font-face {
     font-family: monserat;
-    src: url('/src/font/Montserrat-Medium.otf');
+    src: url('font/Montserrat-Medium.otf');
 }
 @font-face {
     font-family: monserat-bold;
-    src: url('/src/font/Montserrat-Black.otf');
+    src: url('font/Montserrat-Black.otf');
 }
 @font-face {
     font-family: monserat-light;
-    src: url('/src/font/Montserrat-Light.otf');
+    src: url('font/Montserrat-Light.otf');
 }
 @font-face {
     font-family: monserat-exta;
-    src: url('/src/font/Montserrat-Bold.otf');
+    src: url('font/Montserrat-Bold.otf');
 }
 
 .monserat{
